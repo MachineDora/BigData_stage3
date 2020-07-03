@@ -1,0 +1,79 @@
+.getCode{
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.stockInfo1{
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin:0 auto;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    border: 5px solid rgba(208, 208, 208, 0.24);
+    height: 30px;
+}
+
+.stockInfo2{
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin:0 auto;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    border: 5px solid rgba(208, 208, 208, 0.24);
+    width: 360px;
+}
+
+.title{
+    font-size: 15px;
+    width: 250px;
+    margin-right: 80px;
+    overflow: hidden;
+    text-overflow:ellipsis;
+    white-space: nowrap;
+}
+
+.title0{
+    font-size: 15px;
+    width: 150px;
+    margin-right: 50px;
+}
+
+.content2{
+    width: 150px;
+}
+
+.mainAffairs{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin:0 auto;
+    margin-top: 20px;
+    margin-left: 40px;
+    font-size: 15px;
+    margin-right: 40px;
+    overflow: hidden;
+    text-overflow:ellipsis;
+    white-space: nowrap;
+    border: 5px solid rgba(208, 208, 208, 0.24);
+}
+
+.peopleList{
+    height: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.people{
+    margin-left: 10px;
+}
+
